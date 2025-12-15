@@ -37,6 +37,6 @@ O código-fonte está organizado nos seguintes pacotes:
 - `ui`: Contém os Composables do Jetpack Compose, organizados por tela.
 - `MainActivity.kt`: O ponto de entrada do aplicativo.
 
-# Créditos
+## Créditos
 - Fellipe Pietro Rodrigues Gonçalves
 - Carlos Eduardo Moreno Nunes Guerra
