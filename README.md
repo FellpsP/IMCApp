@@ -38,5 +38,5 @@ O código-fonte está organizado nos seguintes pacotes:
 - `MainActivity.kt`: O ponto de entrada do aplicativo.
 
 # Créditos
-Fellipe Pietro Rodrigues Gonçalves
-Carlos Eduardo Moreno Nunes Guerra
+- Fellipe Pietro Rodrigues Gonçalves
+- Carlos Eduardo Moreno Nunes Guerra
